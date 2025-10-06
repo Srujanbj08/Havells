@@ -1,0 +1,348 @@
+[
+  {
+    "id": "STR-WW-5M",
+    "name": "Warm White LED String 5m",
+    "type": "string",
+    "watt": 5,
+    "lumens": 350,
+    "price_inr": 199,
+    "tags": [
+      "warm_white",
+      "modern",
+      "cozy",
+      "steady"
+    ],
+    "popularity": 78
+  },
+  {
+    "id": "STR-MC-10M",
+    "name": "Multicolor LED String 10m",
+    "type": "string",
+    "watt": 10,
+    "lumens": 700,
+    "price_inr": 349,
+    "tags": [
+      "multicolor",
+      "festive",
+      "flashy",
+      "twinkle"
+    ],
+    "popularity": 82
+  },
+  {
+    "id": "CUR-WW",
+    "name": "Curtain Lights Warm White",
+    "type": "curtain",
+    "watt": 8,
+    "lumens": 600,
+    "price_inr": 499,
+    "tags": [
+      "warm_white",
+      "cozy",
+      "romantic",
+      "steady"
+    ],
+    "popularity": 74
+  },
+  {
+    "id": "NET-WW",
+    "name": "Net Lights for Window",
+    "type": "net",
+    "watt": 7,
+    "lumens": 520,
+    "price_inr": 449,
+    "tags": [
+      "warm_white",
+      "minimal",
+      "modern",
+      "steady"
+    ],
+    "popularity": 70
+  },
+  {
+    "id": "ICL-WH",
+    "name": "Icicle Lights White",
+    "type": "icicle",
+    "watt": 12,
+    "lumens": 850,
+    "price_inr": 599,
+    "tags": [
+      "white",
+      "modern",
+      "minimal",
+      "steady"
+    ],
+    "popularity": 66
+  },
+  {
+    "id": "LMP-DIYA",
+    "name": "LED Diyas (Pack of 12)",
+    "type": "decor",
+    "watt": 6,
+    "lumens": 240,
+    "price_inr": 299,
+    "tags": [
+      "amber",
+      "traditional",
+      "warm_white"
+    ],
+    "popularity": 88
+  },
+  {
+    "id": "LMP-STAR",
+    "name": "Hanging Star Lantern",
+    "type": "decor",
+    "watt": 4,
+    "lumens": 180,
+    "price_inr": 259,
+    "tags": [
+      "warm_white",
+      "gold",
+      "festive"
+    ],
+    "popularity": 60
+  },
+  {
+    "id": "WRE-LED",
+    "name": "LED Wreath (Green+Red)",
+    "type": "decor",
+    "watt": 9,
+    "lumens": 500,
+    "price_inr": 549,
+    "tags": [
+      "green",
+      "red",
+      "traditional",
+      "christmas"
+    ],
+    "popularity": 72
+  },
+  {
+    "id": "PROJ-SNOW",
+    "name": "Snowflake Projector",
+    "type": "projector",
+    "watt": 15,
+    "lumens": 1200,
+    "price_inr": 1299,
+    "tags": [
+      "white",
+      "projector",
+      "modern",
+      "flashy"
+    ],
+    "popularity": 63
+  },
+  {
+    "id": "LZR-PAT",
+    "name": "Laser Pattern Projector",
+    "type": "projector",
+    "watt": 18,
+    "lumens": 1500,
+    "price_inr": 1499,
+    "tags": [
+      "green",
+      "red",
+      "projector",
+      "flashy"
+    ],
+    "popularity": 58
+  },
+  {
+    "id": "RGB-STR",
+    "name": "Addressable RGB Strip 5m",
+    "type": "strip",
+    "watt": 14,
+    "lumens": 900,
+    "price_inr": 999,
+    "tags": [
+      "multicolor",
+      "modern",
+      "chasing",
+      "wow"
+    ],
+    "popularity": 80
+  },
+  {
+    "id": "CND-LED",
+    "name": "LED Candles (Pack of 6)",
+    "type": "decor",
+    "watt": 3,
+    "lumens": 120,
+    "price_inr": 229,
+    "tags": [
+      "warm_white",
+      "cozy",
+      "traditional"
+    ],
+    "popularity": 77
+  },
+  {
+    "id": "BLC-FAIRY",
+    "name": "Balcony Fairy Lights 10m",
+    "type": "string",
+    "watt": 9,
+    "lumens": 600,
+    "price_inr": 399,
+    "tags": [
+      "warm_white",
+      "cozy",
+      "twinkle"
+    ],
+    "popularity": 85
+  },
+  {
+    "id": "NET-MC",
+    "name": "Net Lights Multicolor",
+    "type": "net",
+    "watt": 10,
+    "lumens": 750,
+    "price_inr": 529,
+    "tags": [
+      "multicolor",
+      "flashy",
+      "twinkle"
+    ],
+    "popularity": 64
+  },
+  {
+    "id": "ICL-WARM",
+    "name": "Warm Icicle Lights",
+    "type": "icicle",
+    "watt": 11,
+    "lumens": 820,
+    "price_inr": 579,
+    "tags": [
+      "warm_white",
+      "cozy",
+      "steady"
+    ],
+    "popularity": 68
+  },
+  {
+    "id": "PTH-DIYA",
+    "name": "Pathway Diyas (LED) Pack 8",
+    "type": "decor",
+    "watt": 5,
+    "lumens": 220,
+    "price_inr": 319,
+    "tags": [
+      "amber",
+      "gold",
+      "traditional"
+    ],
+    "popularity": 69
+  },
+  {
+    "id": "WALL-LAMP",
+    "name": "Wall Wash Lamp (Warm)",
+    "type": "lamp",
+    "watt": 10,
+    "lumens": 700,
+    "price_inr": 899,
+    "tags": [
+      "warm_white",
+      "modern",
+      "minimal"
+    ],
+    "popularity": 62
+  },
+  {
+    "id": "STAR-MC",
+    "name": "Paper Star with LEDs",
+    "type": "decor",
+    "watt": 4,
+    "lumens": 150,
+    "price_inr": 199,
+    "tags": [
+      "red",
+      "green",
+      "christmas",
+      "traditional"
+    ],
+    "popularity": 73
+  },
+  {
+    "id": "TREE-LED",
+    "name": "Mini LED Tree",
+    "type": "decor",
+    "watt": 8,
+    "lumens": 450,
+    "price_inr": 699,
+    "tags": [
+      "green",
+      "warm_white",
+      "cozy"
+    ],
+    "popularity": 61
+  },
+  {
+    "id": "STR-GOLD",
+    "name": "Gold Bead String 5m",
+    "type": "string",
+    "watt": 6,
+    "lumens": 380,
+    "price_inr": 279,
+    "tags": [
+      "gold",
+      "warm_white",
+      "festive"
+    ],
+    "popularity": 67
+  },
+  {
+    "id": "CUR-RGB",
+    "name": "RGB Curtain Lights",
+    "type": "curtain",
+    "watt": 13,
+    "lumens": 980,
+    "price_inr": 849,
+    "tags": [
+      "multicolor",
+      "wow",
+      "chasing"
+    ],
+    "popularity": 75
+  },
+  {
+    "id": "STR-RED",
+    "name": "Red LED String 5m",
+    "type": "string",
+    "watt": 6,
+    "lumens": 380,
+    "price_inr": 249,
+    "tags": [
+      "red",
+      "traditional",
+      "steady"
+    ],
+    "popularity": 59
+  },
+  {
+    "id": "STR-GREEN",
+    "name": "Green LED String 5m",
+    "type": "string",
+    "watt": 6,
+    "lumens": 380,
+    "price_inr": 249,
+    "tags": [
+      "green",
+      "traditional",
+      "steady"
+    ],
+    "popularity": 59
+  },
+  {
+    "id": "SPOT-WARM",
+    "name": "Warm Spotlight (Adjustable)",
+    "type": "spot",
+    "watt": 7,
+    "lumens": 600,
+    "price_inr": 699,
+    "tags": [
+      "warm_white",
+      "modern",
+      "accent"
+    ],
+    "popularity": 65
+  }
+]
